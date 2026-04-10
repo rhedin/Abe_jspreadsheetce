@@ -1,3 +1,9 @@
+# rhedin/Abe_jspreadsheetce is a clone of jspreadsheet/ce
+
+Now that my project depends on it, I cloned it so it can't disappear.  I don't intend to make many (any) changes to it. 
+
+jspreadsheet-ce was written by Paul Hodel.  It is associated with https://bossanova.uk. 
+
 # Jspreadsheet CE v5: The JavaScript spreadsheet
 
 <b>Jexcel CE</b> has been renamed to <b>Jspreadsheet CE</b><br><br>
