@@ -1,0 +1,31 @@
+Is there a repo available corresponding to https://bossanova.uk/jspreadsheet ?
+
+
+**No — there is no separate public GitHub repo for the website at https://bossanova.uk/jspreadsheet.**
+
+### What *does* exist:
+
+- **The library itself** → https://github.com/jspreadsheet/ce  
+  This is the official open-source Community Edition repository. It contains:
+  - The actual JavaScript source code (`src/`, `dist/`)
+  - A very small `docs/` folder with basic Markdown files (mostly the same content that powers parts of bossanova.uk)
+
+- **The Pro version** → https://github.com/jspreadsheet/pro (which you already cloned)
+
+vvvvvvvvvvvvvvvv  notice this  vvvvvvvvvvvvvvvvv
+The **bossanova.uk/jspreadsheet** website (including the nice rendered docs) is **not** open-sourced as its own repository. It’s a privately hosted site maintained by the Jspreadsheet team. The documentation pages you see there are built from the minimal docs in the `ce` repo plus some additional internal content that isn’t public.
+AAAAAAAAAAAAAAAA  notice this  AAAAAAAAAAAAAAAAA
+
+### Bottom line
+If you want the source that most closely matches the documentation you’re reading:
+- Clone `https://github.com/jspreadsheet/ce` (you already know how)
+- Use Obsidian on it
+
+But you won’t find a full “website repo” that mirrors the exact HTML/CSS of bossanova.uk.
+
+That’s why I kept pointing you back to the bossanova.uk site itself for the cleanest, most complete docs — it’s the authoritative rendered version. The GitHub repos are mainly for the code.
+
+
+So, we can crank up Obsidian and point it as this docs directory (that's the community docs, 
+as opposed to the "professional" docs at docs_pro).  But as long as its available, look at 
+https://bossanova.uk/jspreadsheet

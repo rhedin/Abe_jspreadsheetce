@@ -1,0 +1,28 @@
+These docs are borrowed from the pro version.  They are more extensive than 
+the community version. 
+
+https://jspreadsheet.com/docs/columns
+https://bossanova.uk/jspreadsheet/docs/columns
+https://github.com/jspreadsheet/ce
+
+Grok and I were looking at the autoWidth feature.  I wondered whether the columns could size themselves, 
+according to their contents. 
+Grok said this: 
+Yes — the Pro docs are the best place to look (they're more complete and up-to-date than the CE GitHub README).
+
+Yes, but upon further investigation, although autoWidth may be documented in the pro version, it is not 
+available in the community version.  So looking at the pro version of the documentation is misleading. 
+
+I am not longer sure of the value of this deposit of docs, but I will leave it here.  It's not too 
+expensive. 
+
+One can fire up Obsidian, and open up this docs_pro folder as a vault.  Then all the docs will 
+be available for reading. 
+But it's somehow a little more bland than the version on the internet (at the jspreadsheet.com 
+url above). 
+
+I got the pro docs -- directory of markdown files -- by cloning this repository 
+https://github.com/jspreadsheet/pro.git 
+
+It does not seem straightforward to replicate the pro website.  It is not on github? 
+But the online one is available.  For now. 
